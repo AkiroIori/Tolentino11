@@ -1,0 +1,25 @@
+.card-body{
+    text-align: center;
+}
+
+.display-4{
+  color: orange;
+}
+
+.jumbotron{
+    background-color: black;
+}
+.lead{
+    color: aliceblue;
+}
+
+.my-4{
+    color: aliceblue;
+}
+
+.always{
+    color: aliceblue;
+}
+.pic1_text{
+  text-align: center;
+}
